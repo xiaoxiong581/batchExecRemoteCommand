@@ -1,0 +1,11 @@
+[
+  {
+    "host": "192.168.137.106:22",
+    "user": "root",
+    "password": "xxxx",
+    "commands": [
+      "docker images",
+      "sudo docker ps"
+    ]
+  }
+]
